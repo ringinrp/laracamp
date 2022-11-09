@@ -16,5 +16,5 @@ class Checkout extends Model
         'expired',
         'cvc',
         'is_paid'
-    ]
+    ];
 }
